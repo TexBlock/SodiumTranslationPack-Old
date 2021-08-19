@@ -11,9 +11,9 @@
 | :---------------------------: | :-------------: | :-----------: | :-------: |
 |     SodiumTranslationPack     |     Sodium      | 1.16.x/1.17.x |  Fabric   |
 | SodiumReforgedTranslationPack | Sodium Reforged |    1.16.x     |   Forge   |
-|  Sodium-ExtraTranslationPack  |  Sodium-Extra   |     未知①     |  Fabric   |
+|  Sodium-ExtraTranslationPack  |  Sodium-Extra   |     1.16.x     |  Fabric   |
 
-> ①：由于Sodium-Extra不支持本地化，所以暂不支持。
+
 
 ### 支持语言：
 
