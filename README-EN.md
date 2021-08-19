@@ -11,7 +11,7 @@ Localization is supported in [CaffeineMC/sodium-fabric](https://github.com/Caffe
 | :---------------------------: | :-------------: | :------------------: | :-------: |
 |     SodiumTranslationPack     |     Sodium      |    1.16.x/1.17.x     |  Fabric   |
 | SodiumReforgedTranslationPack | Sodium Reforged |        1.16.x        |   Forge   |
-|  Sodium-ExtraTranslationPack  |  Sodium-Extra   |       UNKNOWN①       |  Fabric   |
+|  Sodium-ExtraTranslationPack  |  Sodium-Extra   |       1.17.x|  Fabric   |
 
 
 
