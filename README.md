@@ -1,6 +1,6 @@
 # Sodium Translation Pack
 
-[EN](README-EN.md) / [ZH-CN](README.md)
+[EN](README-EN.md) / 简体中文
 
 ## 请去新仓库[SodiumTranslationPack](https://github.com/TexBlock/SodiumTranslationPack)
 
